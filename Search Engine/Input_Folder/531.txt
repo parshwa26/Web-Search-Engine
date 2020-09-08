@@ -1,0 +1,2 @@
+https://mybinder.org/v2/gh/laserkelvin/understanding-ml/master
+Binder Thanks to Google Cloud, OVH, GESIS Notebooks and the Turing Institute for supporting us! ? Launching your Binder... New to Binder? Check out the Binder Documentation for more information Build logs show Here's a non-interactive preview on nbviewer while we start a server for you. Your binder will open automatically when it is ready.
