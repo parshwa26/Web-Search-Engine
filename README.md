@@ -7,7 +7,7 @@ By using Regular Expressions searching is performed on these text files.
 Output gives the text files for the searched word and also gives the number of occurrence of that word in the file along with total running time.
 It also gives the reference to the top 10 files from which word Occurrence is count.
 
-#Methodologies used
+# Methodologies used
 
 1) Web Crawler: We have used a web crawler that takes link of a particular website(static) then it gives connected links of webpages.
 2) HTML to Text: We have used Jsoup which converts different HTML pages into text format.
